@@ -1,2 +1,3 @@
-# zillow-price-analysis
+# Zillow Price Analysis
+
 Analysis of Zillow.com pricing errors
